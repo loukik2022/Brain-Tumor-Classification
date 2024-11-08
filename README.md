@@ -13,7 +13,7 @@ The dataset consists of MRI scans divided into four categories:
 - No tumor
 - Pituitary tumor
 
-The training set contains approx. 7,000 images across all categories. 
+The dataset contains approx. 7,000 images across all categories. 
 <br>
 source: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset.
 
