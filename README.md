@@ -42,4 +42,3 @@ For Classification:
 - Accuracy: 95.57%
 - Training completed in 20 epochs, early stopping not reached
 
-![Loss-Accuracy History](results.png)
