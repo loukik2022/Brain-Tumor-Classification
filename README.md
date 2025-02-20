@@ -3,7 +3,7 @@
 This project implements a Convolutional Neural Network (CNN) to classify different types of brain tumors from MRI images. 
 - The model can distinguish between four categories: glioma, meningioma, no tumor, and pituitary tumors.
 - Built using PyTorch to train a custom CNN model for classifying brain tumor MRI images. 
-- The model achieves 95.57% accuracy on the test set, making it a reliable tool for preliminary tumor classification.
+- The model achieves 96.64% accuracy on the test set, making it a reliable tool for preliminary tumor classification.
 
 ## Dataset
 
@@ -39,7 +39,7 @@ For Classification:
 
 
 ## Results:
-- Accuracy: 95.57%
+- Accuracy: 96.64%
 - Training completed in 20 epochs, early stopping not reached
 
 ![Loss-Accuracy History](results.png)
